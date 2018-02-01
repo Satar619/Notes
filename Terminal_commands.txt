@@ -1,0 +1,13 @@
+
+
+{   Terminal for github moving files       }
+Copy Url reposetory
+git init
+git add origin urlname
+git pull
+
+
+git add .
+git commit -m "..."
+git push
+
