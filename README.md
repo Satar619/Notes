@@ -64,3 +64,42 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git diff [source branch] [target branch}` | Preview changes before merging |
 
+
+
+
+	{   Terminal for github moving files       }
+	Copy Url reposetory
+	git init
+	git add origin urlname
+	git pull
+
+
+	git add .
+	git commit -m "..."
+	git push
+
+
+
+
+	On GitHub, navigate to the main page of the repository.
+
+	Clone or download buttonUnder the repository name, click Clone or download.
+
+	Clone URL buttonIn the Clone with HTTPs section, click  to copy the clone URL for the repository.
+
+	Open Terminal.
+
+	Change the current working directory to the location where you want the cloned directory to be made.
+
+	Type git clone, and then paste the URL you copied in Step 2.
+
+	git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+	Press Enter. Your local clone will be created.
+
+	git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+	Cloning into `Spoon-Knife`...
+	remote: Counting objects: 10, done.
+	remote: Compressing objects: 100% (8/8), done.
+	remove: Total 10 (delta 1), reused 10 (delta 1)
+	Unpacking objects: 100% (10/10), done.
+
