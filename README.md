@@ -7,6 +7,17 @@ _A list of my commonly used Git commands_
 
 --
 
+
+	Copy Url reposetory
+	git init
+	git add origin urlname
+	git pull
+	
+
+	git add .
+	git commit -m "..."
+	git push
+	
 ### Getting & Creating Projects
 
 | Command | Description |
