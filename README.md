@@ -8,10 +8,11 @@ _A list of my commonly used Git commands_
 --
 
 
+	go to folder you want to clone
 	Copy Url reposetory
 	git init
-	git add origin urlname
-	git pull
+	git clone "past URL"
+	
 	
 
 	git add .
