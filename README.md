@@ -3,21 +3,6 @@ Git Commands
 
 _A list of my commonly used Git commands_
 
-*If you are interested in my Git aliases, have a look at my `.bash_profile`, found here: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
-
---
-
-
-	go to folder you want to clone
-	Copy Url reposetory
-	git init
-	git clone "past URL"
-	
-	
-
-	git add .
-	git commit -m "..."
-	git push
 	
 ### Getting & Creating Projects
 
